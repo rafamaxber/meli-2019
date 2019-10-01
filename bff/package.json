@@ -1,0 +1,52 @@
+{
+  "name": "@meli/bff",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.ts",
+    "dev:test": "NODE_ENV=test nodemon src/server.ts",
+    "prebuild": "rimraf dist",
+    "build": "tsc",
+    "prod": "npm run build && node app/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.0"
+  },
+  "devDependencies": {
+    "@types/helmet": "0.0.44",
+    "@types/axios": "^0.14.0",
+    "@types/cors": "^2.8.6",
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^4.17.1",
+    "@types/jest": "^24.0.18",
+    "@types/supertest": "^2.0.8",
+    "@typescript-eslint/eslint-plugin": "^2.3.0",
+    "@typescript-eslint/parser": "^2.3.0",
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-cypress": "^2.7.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^24.9.0",
+    "jest-cli": "^24.9.0",
+    "nodemon": "^1.19.2",
+    "rimraf": "^3.0.0",
+    "sucrase": "^3.10.1",
+    "supertest": "^4.0.2",
+    "ts-jest": "^24.1.0",
+    "cypress": "^3.4.1",
+    "typescript": "^3.6.3"
+  }
+}

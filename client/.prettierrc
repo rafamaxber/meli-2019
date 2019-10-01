@@ -1,0 +1,6 @@
+{
+  "parser": "typescript",
+  "eslintPath": ".eslintrc.js",
+  "singleQuote": true,
+  "trailingComma": "all"
+}

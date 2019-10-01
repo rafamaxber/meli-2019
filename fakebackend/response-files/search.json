@@ -1,0 +1,6597 @@
+{
+  "site_id": "MLA",
+  "query": "redmi note 7",
+  "paging": {
+    "total": 990,
+    "offset": 0,
+    "limit": 50,
+    "primary_results": 990
+  },
+  "results": [{
+    "id": "MLA813038453",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 Dual Sim 64 Gb Dream Blue (4 Gb Ram)",
+    "seller": {
+      "id": 77016262,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 16598,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-08-31T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://www.mercadolibre.com.ar/p/MLA14141084",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/693053-MLA31238988778_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2265.21,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "SanMartin"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "SanMartin"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "source": 1,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "source": 3570163010178927,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1
+    }, {
+      "source": 1,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141084",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"],
+    "catalog_listing": true
+  }, {
+    "id": "MLA811797915",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 Dual Sim 128 Gb Bright Black",
+    "seller": {
+      "id": 133643,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 18999,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-08-23T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://www.mercadolibre.com.ar/p/MLA14321133",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/836685-MLA31182385621_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2592.89,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": "TUxBQlNBTjgzMjRa",
+      "city_name": "San Nicolás"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": "TUxBQlNBTjgzMjRa",
+        "name": "San Nicolás"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null
+    }, {
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 8342579661593500,
+      "id": "ITEM_CONDITION"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null
+    }, {
+      "source": 1,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14321133",
+    "tags": ["good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"],
+    "catalog_listing": true
+  }, {
+    "id": "MLA812460820",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 Dual Sim 32 Gb Bright Black",
+    "seller": {
+      "id": 463792370,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 20990,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 0,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-08-28T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://www.mercadolibre.com.ar/p/MLA14141082",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/785871-MLA31182301179_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2864.61,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "Remedios De Escalada"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "Remedios De Escalada"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "source": 1,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU"
+    }, {
+      "source": 6808261514773724,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "LINE"
+    }, {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1
+    }, {
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141082",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"],
+    "catalog_listing": true
+  }, {
+    "id": "MLA752203269",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 64gb 4gb Ram Camara 48 Mp V/global + Sellados",
+    "seller": {
+      "id": 192750543,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 16990,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 200,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2038-10-04T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-752203269-xiaomi-note-7-64gb-4gb-ram-camara-48-mp-vglobal-sellados-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/880170-MLA32225953615_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2318.71,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-N",
+      "state_name": "Misiones",
+      "city_id": "TUxBQ0NBUDNhM2Jh",
+      "city_name": "Posadas"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-N",
+        "name": "Misiones"
+      },
+      "city": {
+        "id": "TUxBQ0NBUDNhM2Jh",
+        "name": "Posadas"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 7092,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi"
+    }, {
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL"
+    }, {
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 7092,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 7092,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 7092,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA782133161",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 64gb - Global Version - Fac A O B - Gtia",
+    "seller": {
+      "id": 373330747,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 16849.97,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 500,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-04-12T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-782133161-xiaomi-redmi-note-7-64gb-global-version-fac-a-o-b-gtia-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/997946-MLA31025012883_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2299.6,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "San Nicolás"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "San Nicolás"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387"
+    }, {
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo"
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL"
+    }, {
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA816843874",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 128gb 4gb Ram Cam48 Mp Version Global Sellado",
+    "seller": {
+      "id": 461633890,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 15490,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-09-21T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-816843874-xiaomi-note-7-128gb-4gb-ram-cam48-mp-version-global-sellado-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/734507-MLA32325378301_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2114,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": "TUxBQlJFQzkyMTVa",
+      "city_name": "Recoleta"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": "TUxBQlJFQzkyMTVa",
+        "name": "Recoleta"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3570163010178927,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null
+    }, {
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["good_quality_thumbnail", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA777026998",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 Version Global 4 /64 Gb Snapdragon 660 + Funda",
+    "seller": {
+      "id": 63944686,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 16980,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 200,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-03-16T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-777026998-xiaomi-note-7-version-global-4-64-gb-snapdragon-660-funda-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/829575-MLA31042293374_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2317.35,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-N",
+      "state_name": "Misiones",
+      "city_id": "TUxBQ0NBUDNhM2Jh",
+      "city_name": "Posadas"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-N",
+        "name": "Misiones"
+      },
+      "city": {
+        "id": "TUxBQ0NBUDNhM2Jh",
+        "name": "Posadas"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 7092
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 7092,
+      "id": "LINE",
+      "name": "Línea"
+    }, {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 7092
+    }, {
+      "source": 7092,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA783664492",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 Global 4 Gb/ 64 Gb Snapdragon 660 6.3'' Ips",
+    "seller": {
+      "id": 231235530,
+      "power_seller_status": "silver",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 16988,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 150,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-04-22T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-783664492-xiaomi-note-7-global-4-gb-64-gb-snapdragon-660-63-ips-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/769625-MLA31079660561_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2318.44,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-N",
+      "state_name": "Misiones",
+      "city_id": "TUxBQ0NBUDNhM2Jh",
+      "city_name": "Posadas"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-N",
+        "name": "Misiones"
+      },
+      "city": {
+        "id": "TUxBQ0NBUDNhM2Jh",
+        "name": "Posadas"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA785999348",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 Global 4 Gb/ 64 Gb Snapdragon 660 6.3'' Ips",
+    "seller": {
+      "id": 54475192,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 16979,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 50,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-06-19T20:16:13.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-785999348-xiaomi-note-7-global-4-gb-64-gb-snapdragon-660-63-ips-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/956665-MLA30907986447_052019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2317.21,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-W",
+      "state_name": "Corrientes",
+      "city_id": "TUxBQ0NBUDFmMzcw",
+      "city_name": "Corrientes"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-W",
+        "name": "Corrientes"
+      },
+      "city": {
+        "id": "TUxBQ0NBUDFmMzcw",
+        "name": "Corrientes"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260"
+    }, {
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA783872088",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 64gb 4gb Ram Cam 48mp V/global+ Sellados+funda",
+    "seller": {
+      "id": 219661025,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 18499,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 50,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-04-27T20:34:49.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-783872088-xiaomi-note-7-64gb-4gb-ram-cam-48mp-vglobal-selladosfunda-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/975568-MLA31063580695_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2524.65,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": "TUxBQkNBQjM4MDda",
+      "city_name": "Caballito"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "xd_drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": "TUxBQkNBQjM4MDda",
+        "name": "Caballito"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null
+    }, {
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU"
+    }, {
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL"
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141085",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA722739556",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 64gb/ 4gb Ram 48mp + 5mp Cámara Dual ",
+    "seller": {
+      "id": 228296699,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 17999,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 150,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2038-04-28T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-722739556-xiaomi-redmi-note-7-64gb-4gb-ram-48mp-5mp-camara-dual-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/817794-MLA31141738452_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2456.41,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "ONCE"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping", "self_service_out"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "ONCE"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861
+    }, {
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo"
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA776586163",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 + 128 Gb+4 Gb+ Funda+ Vidrio+ Liberado!",
+    "seller": {
+      "id": 229637763,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 20998,
+    "currency_id": "ARS",
+    "available_quantity": 100,
+    "sold_quantity": 150,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-03-30T17:45:39.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-776586163-xiaomi-redmi-note-7-128-gb4-gb-funda-vidrio-liberado-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/813644-MLA31024952812_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2865.7,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Caballito"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Caballito"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi"
+    }, {
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "LINE"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA814907676",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 2019 64gb Sellados, Factura Y Garantia!",
+    "seller": {
+      "id": 225166337,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 16800,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-09-09T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-814907676-xiaomi-redmi-note-7-2019-64gb-sellados-factura-y-garantia-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/705160-MLA32177884354_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2292.78,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "Villa rosa"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "Villa rosa"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6808261514773724
+    }, {
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6808261514773724,
+      "id": "ITEM_CONDITION"
+    }, {
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6808261514773724,
+      "id": "LINE",
+      "name": "Línea"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 6808261514773724,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA804584950",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 Version Global 4 Ram 64 Gb Snapdragon 660 ",
+    "seller": {
+      "id": 15096445,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 21379,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-07-25T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-804584950-xiaomi-note-7-version-global-4-ram-64-gb-snapdragon-660-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/738446-MLA31625324353_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2917.7,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Capital Federal"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["fulfillment", "self_service_out", "mandatory_free_shipping"],
+      "logistic_type": "fulfillment",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Capital Federal"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND"
+    }, {
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU"
+    }, {
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL"
+    }, {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3570163010178927
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "original_price": 25654,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA723724806",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 128gb/ 4gb Ram 48mp + 5mp Cámara Dual ",
+    "seller": {
+      "id": 228296699,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 20500,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 150,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2038-05-03T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-723724806-xiaomi-redmi-note-7-128gb-4gb-ram-48mp-5mp-camara-dual-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/870145-MLA31592583338_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2797.74,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "ONCE"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["fulfillment", "mandatory_free_shipping"],
+      "logistic_type": "fulfillment",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "ONCE"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi"
+    }, {
+      "source": 1572,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo"
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7"
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA727607136",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 + 64gb+4 Gb Ram Liberado+ Funda+vidrio!",
+    "seller": {
+      "id": 229637763,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 17998,
+    "currency_id": "ARS",
+    "available_quantity": 150,
+    "sold_quantity": 150,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2038-07-18T19:15:44.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-727607136-xiaomi-redmi-note-7-64gb4-gb-ram-liberado-fundavidrio-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/612922-MLA31020635398_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2456.28,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Caballito"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Caballito"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "source": 1,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "LINE",
+      "name": "Línea"
+    }, {
+      "source": 1572,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "source": 1572,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA788821035",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 128gb 4gb Ram Caja Sellada Global+ Funda Envío",
+    "seller": {
+      "id": 128885,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 27998,
+    "currency_id": "ARS",
+    "available_quantity": 100,
+    "sold_quantity": 50,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-08-28T18:45:04.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-788821035-xiaomi-note-7-128gb-4gb-ram-caja-sellada-global-funda-envio-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/947187-MLA32056382295_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1555.44,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Capital federal"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_out", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Capital federal"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi"
+    }, {
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847"
+    }, {
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE"
+    }, {
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "ahora-12", "immediate_payment"]
+  }, {
+    "id": "MLA791503535",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 4gb Ram/64gb Global Celular Libre Sellado Snapdragon 660 Cam 48mpx Funda Cuotas S% Garantia Fc A/b",
+    "seller": {
+      "id": 3777445,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 20990,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 100,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-06-03T22:14:06.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-791503535-xiaomi-redmi-note-7-4gb-ram64gb-global-celular-libre-sellado-snapdragon-660-cam-48mpx-funda-cuotas-s-garantia-fc-ab-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/735435-MLA31356502857_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 6,
+      "amount": 3498.33,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Ciudad Autónoma de Bs As"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "xd_drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Ciudad Autónoma de Bs As"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387"
+    }, {
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU"
+    }, {
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847"
+    }, {
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284"
+    }, {
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE"
+    }, {
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }],
+    "differential_pricing": {
+      "id": 33669181
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141085",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA812650975",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 64gb 4gb Ram Caja Sellada Global Cuotas ",
+    "seller": {
+      "id": 128885,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 25999,
+    "currency_id": "ARS",
+    "available_quantity": 250,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-08-29T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-812650975-xiaomi-note-7-64gb-4gb-ram-caja-sellada-global-cuotas-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/772420-MLA32056371841_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1444.39,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Capital federal"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_out", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Capital federal"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 8342579661593500,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador"
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["ahora-12", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment"]
+  }, {
+    "id": "MLA783164044",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 - 64gb- 4gb - Libre - Rosario",
+    "seller": {
+      "id": 179602040,
+      "power_seller_status": "silver",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 20579,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 100,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-04-19T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-783164044-xiaomi-redmi-note-7-64gb-4gb-libre-rosario-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/609093-MLA31355648547_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 6,
+      "amount": 3429.83,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-S",
+      "state_name": "Santa Fe",
+      "city_id": "TUxBQ1JPUzg1Yjg3",
+      "city_name": "Rosario"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-S",
+        "name": "Santa Fe"
+      },
+      "city": {
+        "id": "TUxBQ1JPUzg1Yjg3",
+        "name": "Rosario"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo"
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null
+    }],
+    "differential_pricing": {
+      "id": 33669181
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141085",
+    "tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA801611193",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 64g 4 G Ram Neptune Blue ",
+    "seller": {
+      "id": 262086144,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 23889,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-07-14T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-801611193-xiaomi-redmi-note-7-64g-4-g-ram-neptune-blue-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/857835-MLA32105941983_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1327.17,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": "TUxBQ0NBUzE3NTU5Mg",
+      "city_name": "Caseros"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": "TUxBQ0NBUzE3NTU5Mg",
+        "name": "Caseros"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260"
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3570163010178927,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660"
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "ahora-12", "brand_verified", "immediate_payment"]
+  }, {
+    "id": "MLA806669081",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 32gb 3gb Libre",
+    "seller": {
+      "id": 139305690,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 21737,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-08-02T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-806669081-xiaomi-redmi-note-7-32gb-3gb-libre-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/608809-MLA32232324096_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1207.61,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-S",
+      "state_name": "Santa Fe",
+      "city_id": "TUxBQ1JPUzg1Yjg3",
+      "city_name": "Rosario"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-S",
+        "name": "Santa Fe"
+      },
+      "city": {
+        "id": "TUxBQ1JPUzg1Yjg3",
+        "name": "Rosario"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND"
+    }, {
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385"
+    }, {
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 8342579661593500,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null
+    }, {
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "ahora-12", "immediate_payment"]
+  }, {
+    "id": "MLA621573463",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 4gb Ram 128gb Dual Sim + Funda",
+    "seller": {
+      "id": 153491318,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 19399,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 100,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2036-05-19T20:41:36.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-621573463-xiaomi-redmi-note-7-4gb-ram-128gb-dual-sim-funda-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/684210-MLA31577838864_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2647.48,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "CABA"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_out", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "CABA"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null
+    }, {
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1,
+      "id": "ITEM_CONDITION"
+    }, {
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861,
+      "id": "LINE",
+      "name": "Línea"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA6210933",
+    "tags": ["good_quality_thumbnail", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA807308860",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 Global 4 64gb Redmi 48mp Snapdragon 660 Libre",
+    "seller": {
+      "id": 273338818,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 23199,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-08-04T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-807308860-xiaomi-note-7-global-4-64gb-redmi-48mp-snapdragon-660-libre-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/718155-MLA31754570543_082019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 6,
+      "amount": 3866.5,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Recoleta"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Recoleta"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca"
+    }, {
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 8342579661593500,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "differential_pricing": {
+      "id": 33669181
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA811028102",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 Version Global 4 /64 Gb Snapdragon 660 + Funda Cuotas",
+    "seller": {
+      "id": 140240626,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 21999,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-08-19T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-811028102-xiaomi-note-7-version-global-4-64-gb-snapdragon-660-funda-cuotas-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/808598-MLA31633105422_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1222.17,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Villa del Parque"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_out", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Villa del Parque"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca"
+    }, {
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 8342579661593500,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL"
+    }, {
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador"
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["ahora-12", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment"]
+  }, {
+    "id": "MLA814912978",
+    "site_id": "MLA",
+    "title": "Celular Xiaomi Redmi Note 7 32gb 3gb Ram 48mpx Cámara Dual",
+    "seller": {
+      "id": 140240626,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 19999,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-09-09T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-814912978-celular-xiaomi-redmi-note-7-32gb-3gb-ram-48mpx-camara-dual-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/755734-MLA30500929832_052019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1111.06,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Villa del Parque"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Villa del Parque"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260"
+    }, {
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 8342579661593500,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284"
+    }, {
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE"
+    }, {
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL"
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["ahora-12", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment"]
+  }, {
+    "id": "MLA796327174",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 64gb 4gb Ram *edición Limitada Color Blanco* V/global Sellados Nuevos Libres Garantía",
+    "seller": {
+      "id": 243995952,
+      "power_seller_status": "gold",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 18499,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-06-26T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-796327174-xiaomi-note-7-64gb-4gb-ram-edicion-limitada-color-blanco-vglobal-sellados-nuevos-libres-garantia-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/733417-MLA32053681490_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2524.65,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "Ramos Mejía"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "Ramos Mejía"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU"
+    }, {
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141085",
+    "tags": ["good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA779923797",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 128gb 4gb Ram Azul O Negro Cam 48 Mp V/global ",
+    "seller": {
+      "id": 243995952,
+      "power_seller_status": "gold",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 21749,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-03-31T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-779923797-xiaomi-note-7-128gb-4gb-ram-azul-o-negro-cam-48-mp-vglobal-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/629146-MLA31335639982_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2968.19,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "Ramos Mejía"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "Ramos Mejía"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null
+    }, {
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU"
+    }, {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572
+    }, {
+      "source": 1572,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "MODEL",
+      "name": "Modelo"
+    }, {
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA776794235",
+    "site_id": "MLA",
+    "title": " Redmi Note 7 64gb+4gb Ram! Cámara 48mp! Libre De Fábrica!",
+    "seller": {
+      "id": 101314736,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 17399,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-03-15T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-776794235-redmi-note-7-64gb4gb-ram-camara-48mp-libre-de-fabrica-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/904472-MLA31116287638_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2374.53,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-N",
+      "state_name": "Misiones",
+      "city_id": null,
+      "city_name": "posadas"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-N",
+        "name": "Misiones"
+      },
+      "city": {
+        "id": null,
+        "name": "posadas"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "source": 7092,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 7092
+    }, {
+      "source": 7092,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 7092,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "brand_verified", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA796978677",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 128gb Version Global Ahora 18!!!",
+    "seller": {
+      "id": 179064066,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 27950,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-08-28T22:25:22.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-796978677-xiaomi-note-7-128gb-version-global-ahora-18-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/677921-MLA32082316843_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1552.78,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "San Nicolás"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "San Nicolás"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL"
+    }, {
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847"
+    }, {
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7"
+    }, {
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador"
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "ahora-12", "brand_verified", "immediate_payment"]
+  }, {
+    "id": "MLA806411770",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 64gb 4gb Ram Garantia + Liberado",
+    "seller": {
+      "id": 407075586,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 23385,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-09-07T21:20:46.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-806411770-xiaomi-redmi-note-7-64gb-4gb-ram-garantia-liberado-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/630328-MLA31698746049_082019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1299.17,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "Ramos Mejía"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "Ramos Mejía"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 8342579661593500,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea"
+    }, {
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo"
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "ahora-12", "immediate_payment"]
+  }, {
+    "id": "MLA785156182",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 64gb Version Global + Funda Y Ahora 18!",
+    "seller": {
+      "id": 179064066,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 25999,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-08-29T18:35:49.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-785156182-xiaomi-note-7-64gb-version-global-funda-y-ahora-18-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/854234-MLA31550465543_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1444.39,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "San Nicolás"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "San Nicolás"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["ahora-12", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment"]
+  }, {
+    "id": "MLA812520559",
+    "site_id": "MLA",
+    "title": "Celular Xiaomi Redmi Note 7 64gb Garantia + Liberado S/i",
+    "seller": {
+      "id": 407075586,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 23889,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-08-28T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-812520559-celular-xiaomi-redmi-note-7-64gb-garantia-liberado-si-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/768148-MLA32046989576_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1327.17,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "Ramos Mejía"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "Ramos Mejía"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 8342579661593500,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL"
+    }, {
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["ahora-12", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment"]
+  }, {
+    "id": "MLA807306078",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 Version Global 4ram 64gb Redmi 48mp Libre 660",
+    "seller": {
+      "id": 273338818,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 19499,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-08-04T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-807306078-xiaomi-note-7-version-global-4ram-64gb-redmi-48mp-libre-660-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/718155-MLA31754570543_082019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2661.13,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Recoleta"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Recoleta"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3570163010178927,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "brand_verified", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA792147109",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 64gb 4gb Ram Cam 48 Mpx Funda Version Global",
+    "seller": {
+      "id": 84586819,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 16999,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 100,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-07-07T15:06:28.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-792147109-xiaomi-note-7-64gb-4gb-ram-cam-48-mpx-funda-version-global-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/622048-MLA31356630615_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2319.94,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Once"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Once"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385"
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA787939738",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 64gb 4gb Libre 6.3´ Huella Negro Evotech",
+    "seller": {
+      "id": 187270707,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 19699,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-05-17T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-787939738-xiaomi-redmi-note-7-64gb-4gb-libre-63-huella-negro-evotech-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/770501-MLA31664278212_082019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2688.42,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "Martinez"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "Martinez"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo"
+    }, {
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141085",
+    "tags": ["good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA784870212",
+    "site_id": "MLA",
+    "title": "Celulares Liberados Xiaomi Redmi Note 7 64gb 4gb Ram Funda Factura A Garantia",
+    "seller": {
+      "id": 4423001,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 18990,
+    "currency_id": "ARS",
+    "available_quantity": 500,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-05-01T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-784870212-celulares-liberados-xiaomi-redmi-note-7-64gb-4gb-ram-funda-factura-a-garantia-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/878859-MLA31046995212_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2591.66,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": "TUxBQkJFTDcyNTJa",
+      "city_name": "Belgrano"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": "TUxBQkJFTDcyNTJa",
+        "name": "Belgrano"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453,
+      "id": "CPU_MODEL"
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141085",
+    "tags": ["good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA790991304",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 + 64gb+4 Gb Ram Liberado+ Funda+vidrio!",
+    "seller": {
+      "id": 259829894,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 18998,
+    "currency_id": "ARS",
+    "available_quantity": 150,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-05-31T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-790991304-xiaomi-redmi-note-7-64gb4-gb-ram-liberado-fundavidrio-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/688570-MLA31644181973_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2592.75,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": "TUxBQkNBQjM4MDda",
+      "city_name": "Caballito"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": "TUxBQkNBQjM4MDda",
+        "name": "Caballito"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null
+    }, {
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL"
+    }, {
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141085",
+    "tags": ["good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "good_quality_picture", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA791147449",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 + 128 Gb+ 4 Gb+ Funda+ Vidrio+azul Negro",
+    "seller": {
+      "id": 259829894,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 20998,
+    "currency_id": "ARS",
+    "available_quantity": 150,
+    "sold_quantity": 50,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-06-01T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-791147449-xiaomi-redmi-note-7-128-gb-4-gb-funda-vidrioazul-negro-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/644918-MLA31356407138_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2865.7,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": "TUxBQkNBQjM4MDda",
+      "city_name": "Caballito"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": "TUxBQkNBQjM4MDda",
+        "name": "Caballito"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca"
+    }, {
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284"
+    }, {
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7"
+    }, {
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA784465313",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 64gb 4gb Ram",
+    "seller": {
+      "id": 196230127,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 23499,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 150,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-05-08T18:24:42.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-784465313-xiaomi-redmi-note-7-64gb-4gb-ram-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/753996-MLA31087971855_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 18,
+      "amount": 1305.5,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-T",
+      "state_name": "Tucumán",
+      "city_id": null,
+      "city_name": "SAN MIGUEL DE TUCUMAN - SAN MIGUEL DE TUCUMAN"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-T",
+        "name": "Tucumán"
+      },
+      "city": {
+        "id": null,
+        "name": "SAN MIGUEL DE TUCUMAN - SAN MIGUEL DE TUCUMAN"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null
+    }, {
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }],
+    "differential_pricing": {
+      "id": 33665186
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "ahora-12", "immediate_payment"]
+  }, {
+    "id": "MLA785191273",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7   128 Gb 4 Gb Ram Camara 48 Mpx Snapdragon 660",
+    "seller": {
+      "id": 63944686,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 19780,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-05-02T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-785191273-xiaomi-note-7-128-gb-4-gb-ram-camara-48-mpx-snapdragon-660-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/684348-MLA31266791618_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2699.48,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-N",
+      "state_name": "Misiones",
+      "city_id": "TUxBQ0NBUDNhM2Jh",
+      "city_name": "Posadas"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-N",
+        "name": "Misiones"
+      },
+      "city": {
+        "id": "TUxBQ0NBUDNhM2Jh",
+        "name": "Posadas"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi"
+    }, {
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA788833627",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7  128/4 Gb/ Snapdragon 660 Version Global  ",
+    "seller": {
+      "id": 231235530,
+      "power_seller_status": "silver",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 19788,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 25,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-05-23T18:25:13.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-788833627-xiaomi-note-7-1284-gb-snapdragon-660-version-global-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/983619-MLA30125236406_042019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2700.57,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-N",
+      "state_name": "Misiones",
+      "city_id": "TUxBQ0NBUDNhM2Jh",
+      "city_name": "Posadas"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-N",
+        "name": "Misiones"
+      },
+      "city": {
+        "id": "TUxBQ0NBUDNhM2Jh",
+        "name": "Posadas"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null
+    }, {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA811790958",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 64gb 4gb Ram Garantia + Liberado",
+    "seller": {
+      "id": 262086144,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 18708,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-08-23T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-811790958-xiaomi-redmi-note-7-64gb-4gb-ram-garantia-liberado-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/844141-MLA32025426406_082019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2553.17,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": "TUxBQ0NBUzE3NTU5Mg",
+      "city_name": "Caseros"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": "TUxBQ0NBUzE3NTU5Mg",
+        "name": "Caseros"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260"
+    }, {
+      "source": 3570163010178927,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "brand_verified", "extended_warranty_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA795755332",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 32gb Dual Sim Version Global",
+    "seller": {
+      "id": 179064066,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 24999,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-06-23T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-795755332-xiaomi-redmi-note-7-32gb-dual-sim-version-global-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/906614-MLA31657425588_082019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 3411.74,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "San Nicolás"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "San Nicolás"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "CPU_MODEL"
+    }, {
+      "source": 1183438784296846,
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo"
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA727699231",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 4g Lte 128 Ram 4gb 48mpx Libre Garantía",
+    "seller": {
+      "id": 303302077,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 22490,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-09-01T14:59:58.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-727699231-xiaomi-redmi-note-7-4g-lte-128-ram-4gb-48mpx-libre-garantia-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/764093-MLA32092251256_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 3069.32,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": "TUxBQlZJTDc4MDda",
+      "city_name": "Villa del Parque"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": "TUxBQlZJTDc4MDda",
+        "name": "Villa del Parque"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "source": 1,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1000427007642219,
+      "id": "LINE",
+      "name": "Línea"
+    }, {
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS"
+    }, {
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 3376461333454861,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["good_quality_picture", "good_quality_thumbnail", "brand_verified", "extended_warranty_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA785337436",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7+ 128 Gb+4 Gb+ Funda+ Azul+envios !",
+    "seller": {
+      "id": 376496678,
+      "power_seller_status": null,
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 20699,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-05-03T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-785337436-xiaomi-redmi-note-7-128-gb4-gb-funda-azulenvios--_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/941025-MLA31355766248_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2824.9,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-X",
+      "state_name": "Córdoba",
+      "city_id": "TUxBQ0NBUGNiZGQx",
+      "city_name": "Córdoba"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-X",
+        "name": "Córdoba"
+      },
+      "city": {
+        "id": "TUxBQ0NBUGNiZGQx",
+        "name": "Córdoba"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi"
+    }, {
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL"
+    }, {
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE"
+    }, {
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14321132",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "loyalty_discount_eligible", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA776017648",
+    "site_id": "MLA",
+    "title": "Xiaomi Note 7 64gb 4gb Ram Cam 48mp Version Gobal 6 Cuotas",
+    "seller": {
+      "id": 35662753,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 23499,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 50,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-03-10T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-776017648-xiaomi-note-7-64gb-4gb-ram-cam-48mp-version-gobal-6-cuotas-_JM",
+    "thumbnail": "http://mla-s1-p.mlstatic.com/779307-MLA31024503437_062019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 6,
+      "amount": 3916.5,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-B",
+      "state_name": "Buenos Aires",
+      "city_id": null,
+      "city_name": "General San Martin"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-B",
+        "name": "Buenos Aires"
+      },
+      "city": {
+        "id": null,
+        "name": "General San Martin"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null
+    }, {
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "LINE",
+      "name": "Línea"
+    }, {
+      "source": 1572,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL"
+    }],
+    "differential_pricing": {
+      "id": 33669181
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA783536613",
+    "site_id": "MLA",
+    "title": "Xiaomi Redmi Note 7 - Envios Gratis - Rosario - ",
+    "seller": {
+      "id": 252743688,
+      "power_seller_status": "silver",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 20579,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_pro",
+    "stop_time": "2039-04-21T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-783536613-xiaomi-redmi-note-7-envios-gratis-rosario--_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/809201-MLA31548452772_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 6,
+      "amount": 3429.83,
+      "rate": 0,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-S",
+      "state_name": "Santa Fe",
+      "city_id": "TUxBQ1JPUzg1Yjg3",
+      "city_name": "Rosario"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["mandatory_free_shipping"],
+      "logistic_type": "drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-S",
+        "name": "Santa Fe"
+      },
+      "city": {
+        "id": "TUxBQ1JPUzg1Yjg3",
+        "name": "Rosario"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "source": 4709228965570453,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }, {
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem"
+    }, {
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791"
+    }, {
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291"
+    }, {
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }],
+    "differential_pricing": {
+      "id": 33669181
+    },
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA784082605",
+    "site_id": "MLA",
+    "title": "Celular Xiaomi Redmi Note 7 64gb/4gb Cam 48mpx Snap 660",
+    "seller": {
+      "id": 77371467,
+      "power_seller_status": "gold",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 18999,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-04-25T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-784082605-celular-xiaomi-redmi-note-7-64gb4gb-cam-48mpx-snap-660-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/636242-MLA31355949629_072019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2592.89,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": "TUxBQkZMTzg5MjFa",
+      "city_name": "Floresta"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "xd_drop_off",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": "TUxBQkZMTzg5MjFa",
+        "name": "Floresta"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 4709228965570453
+    }, {
+      "id": "GPU_MODEL",
+      "name": "Modelo de GPU",
+      "value_id": "7542847",
+      "value_name": "Adreno 512",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846
+    }, {
+      "id": "ITEM_CONDITION",
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572
+    }, {
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380",
+      "value_name": "Snapdragon 660"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }, {
+    "id": "MLA786236197",
+    "site_id": "MLA",
+    "title": "Celular Xiaomi Note 7 Version Global 4 / 64 Gb + Funda",
+    "seller": {
+      "id": 140240626,
+      "power_seller_status": "platinum",
+      "car_dealer": false,
+      "real_estate_agency": false,
+      "tags": []
+    },
+    "price": 17699,
+    "currency_id": "ARS",
+    "available_quantity": 1,
+    "sold_quantity": 5,
+    "buying_mode": "buy_it_now",
+    "listing_type_id": "gold_special",
+    "stop_time": "2039-05-08T04:00:00.000Z",
+    "condition": "new",
+    "permalink": "https://articulo.mercadolibre.com.ar/MLA-786236197-celular-xiaomi-note-7-version-global-4-64-gb-funda-_JM",
+    "thumbnail": "http://mla-s2-p.mlstatic.com/703329-MLA32081893879_092019-I.jpg",
+    "accepts_mercadopago": true,
+    "installments": {
+      "quantity": 12,
+      "amount": 2415.47,
+      "rate": 63.77,
+      "currency_id": "ARS"
+    },
+    "address": {
+      "state_id": "AR-C",
+      "state_name": "Capital Federal",
+      "city_id": null,
+      "city_name": "Villa del Parque"
+    },
+    "shipping": {
+      "free_shipping": true,
+      "mode": "me2",
+      "tags": ["self_service_in", "mandatory_free_shipping"],
+      "logistic_type": "cross_docking",
+      "store_pick_up": false
+    },
+    "seller_address": {
+      "id": "",
+      "comment": "",
+      "address_line": "",
+      "zip_code": "",
+      "country": {
+        "id": "AR",
+        "name": "Argentina"
+      },
+      "state": {
+        "id": "AR-C",
+        "name": "Capital Federal"
+      },
+      "city": {
+        "id": null,
+        "name": "Villa del Parque"
+      },
+      "latitude": "",
+      "longitude": ""
+    },
+    "attributes": [{
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "59387",
+      "value_name": "Xiaomi",
+      "value_struct": null
+    }, {
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "CPU_MODEL",
+      "name": "Modelo de CPU",
+      "value_id": "6964385",
+      "value_name": "4x2.2 GHz Kryo 260/4x1.8 GHz Kryo 260"
+    }, {
+      "name": "Condición del ítem",
+      "value_id": "2230284",
+      "value_name": "Nuevo",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1572,
+      "id": "ITEM_CONDITION"
+    }, {
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619,
+      "id": "LINE",
+      "name": "Línea",
+      "value_id": "199791",
+      "value_name": "Redmi",
+      "value_struct": null
+    }, {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "6881291",
+      "value_name": "Note 7",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 6587939990796619
+    }, {
+      "value_name": "Snapdragon 660",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros",
+      "source": 1183438784296846,
+      "id": "PROCESSOR_MODEL",
+      "name": "Modelo del procesador",
+      "value_id": "6964380"
+    }],
+    "original_price": null,
+    "category_id": "MLA1055",
+    "official_store_id": null,
+    "catalog_product_id": "MLA14141079",
+    "tags": ["brand_verified", "extended_warranty_eligible", "good_quality_picture", "good_quality_thumbnail", "immediate_payment", "cart_eligible"]
+  }],
+  "secondary_results": [],
+  "related_results": [],
+  "sort": {
+    "id": "relevance",
+    "name": "Más relevantes"
+  },
+  "available_sorts": [{
+    "id": "price_asc",
+    "name": "Menor precio"
+  }, {
+    "id": "price_desc",
+    "name": "Mayor precio"
+  }],
+  "filters": [{
+    "id": "category",
+    "name": "Categorías",
+    "type": "text",
+    "values": [{
+      "id": "MLA1055",
+      "name": "Celulares y Smartphones",
+      "path_from_root": [{
+        "id": "MLA1051",
+        "name": "Celulares y Teléfonos"
+      }, {
+        "id": "MLA1055",
+        "name": "Celulares y Smartphones"
+      }]
+    }]
+  }, {
+    "id": "MODEL",
+    "name": "Modelo",
+    "type": "STRING",
+    "values": [{
+      "id": "6881291",
+      "name": "Note 7"
+    }]
+  }, {
+    "id": "BRAND",
+    "name": "Marca",
+    "type": "STRING",
+    "values": [{
+      "id": "59387",
+      "name": "Xiaomi"
+    }]
+  }, {
+    "id": "LINE",
+    "name": "Línea",
+    "type": "STRING",
+    "values": [{
+      "id": "199791",
+      "name": "Redmi"
+    }]
+  }],
+  "available_filters": [{
+    "id": "discount",
+    "name": "Descuentos",
+    "type": "range",
+    "values": [{
+      "id": "10-100",
+      "name": "Desde 10% off",
+      "results": 1
+    }]
+  }, {
+    "id": "state",
+    "name": "Ubicación",
+    "type": "text",
+    "values": [{
+      "id": "TUxBUENBUGw3M2E1",
+      "name": "Capital Federal",
+      "results": 325
+    }, {
+      "id": "TUxBUE1JU3MzNjIx",
+      "name": "Misiones",
+      "results": 119
+    }, {
+      "id": "TUxBUENPUmFkZGIw",
+      "name": "Córdoba",
+      "results": 103
+    }, {
+      "id": "TUxBUEdSQXJlMDNm",
+      "name": "Bs.As. G.B.A. Sur",
+      "results": 90
+    }, {
+      "id": "TUxBUEdSQWU4ZDkz",
+      "name": "Bs.As. G.B.A. Norte",
+      "results": 80
+    }, {
+      "id": "TUxBUEdSQWVmNTVm",
+      "name": "Bs.As. G.B.A. Oeste",
+      "results": 71
+    }, {
+      "id": "TUxBUFNBTmU5Nzk2",
+      "name": "Santa Fe",
+      "results": 54
+    }, {
+      "id": "TUxBUFRVQ244NmM3",
+      "name": "Tucumán",
+      "results": 27
+    }, {
+      "id": "TUxBUFNBTGFjMTJi",
+      "name": "Salta",
+      "results": 17
+    }, {
+      "id": "TUxBUEpVSnk3YmUz",
+      "name": "Jujuy",
+      "results": 16
+    }, {
+      "id": "TUxBUE1FTmE5OWQ4",
+      "name": "Mendoza",
+      "results": 15
+    }, {
+      "id": "TUxBUFpPTmFpbnRl",
+      "name": "Buenos Aires Interior",
+      "results": 14
+    }, {
+      "id": "TUxBUENPU2ExMmFkMw",
+      "name": "Bs.As. Costa Atlántica",
+      "results": 12
+    }, {
+      "id": "TUxBUENIQW8xMTNhOA",
+      "name": "Chaco",
+      "results": 10
+    }, {
+      "id": "TUxBUENPUnM5MjI0",
+      "name": "Corrientes",
+      "results": 8
+    }, {
+      "id": "TUxBUEZPUmE1OTk5",
+      "name": "Formosa",
+      "results": 4
+    }, {
+      "id": "TUxBUEVOVHMzNTdm",
+      "name": "Entre Ríos",
+      "results": 3
+    }, {
+      "id": "TUxBUFNBTnM0ZTcz",
+      "name": "San Luis",
+      "results": 3
+    }, {
+      "id": "TUxBUExBWmE1OWMy",
+      "name": "La Pampa",
+      "results": 2
+    }, {
+      "id": "TUxBUENIVXQxNDM1MQ",
+      "name": "Chubut",
+      "results": 1
+    }, {
+      "id": "TUxBUExBWmEyNzY0",
+      "name": "La Rioja",
+      "results": 1
+    }, {
+      "id": "TUxBUFNBTm5lYjU4",
+      "name": "San Juan",
+      "results": 1
+    }, {
+      "id": "TUxBUFNBTm9lOTlk",
+      "name": "Santiago del Estero",
+      "results": 1
+    }]
+  }, {
+    "id": "price",
+    "name": "Precio",
+    "type": "range",
+    "values": [{
+      "id": "*-15000.0",
+      "name": "Hasta $ 15.000",
+      "results": 77
+    }, {
+      "id": "15000.0-20000.0",
+      "name": "$15.000 a $20.000",
+      "results": 550
+    }, {
+      "id": "20000.0-*",
+      "name": "Más de $20.000",
+      "results": 360
+    }]
+  }, {
+    "id": "accepts_mercadopago",
+    "name": "Filtro por MercadoPago",
+    "type": "boolean",
+    "values": [{
+      "id": "yes",
+      "name": "Con MercadoPago",
+      "results": 987
+    }]
+  }, {
+    "id": "installments",
+    "name": "Pago",
+    "type": "text",
+    "values": [{
+      "id": "yes",
+      "name": "En cuotas",
+      "results": 987
+    }, {
+      "id": "no_interest",
+      "name": "Sin interés",
+      "results": 261
+    }]
+  }, {
+    "id": "shipping",
+    "name": "Tipo de entrega",
+    "type": "text",
+    "values": [{
+      "id": "mercadoenvios",
+      "name": "Con envío",
+      "results": 982
+    }, {
+      "id": "fulfillment",
+      "name": "Full",
+      "results": 2
+    }]
+  }, {
+    "id": "power_seller",
+    "name": "Filtro por calidad de vendedores",
+    "type": "boolean",
+    "values": [{
+      "id": "yes",
+      "name": "Mejores vendedores",
+      "results": 186
+    }]
+  }, {
+    "id": "since",
+    "name": "Filtro por fecha de comienzo",
+    "type": "text",
+    "values": [{
+      "id": "today",
+      "name": "Publicados hoy",
+      "results": 12
+    }]
+  }, {
+    "id": "until",
+    "name": "Filtro por fecha de finalización",
+    "type": "text",
+    "values": [{
+      "id": "today",
+      "name": "Finalizan hoy",
+      "results": 1
+    }]
+  }, {
+    "id": "has_video",
+    "name": "Filtro por publicaciones con video",
+    "type": "boolean",
+    "values": [{
+      "id": "yes",
+      "name": "Publicaciones con video",
+      "results": 110
+    }]
+  }, {
+    "id": "has_pictures",
+    "name": "Filtro por publicaciones con imágenes",
+    "type": "boolean",
+    "values": [{
+      "id": "yes",
+      "name": "Con fotos",
+      "results": 987
+    }]
+  }, {
+    "id": "shipping_cost",
+    "name": "Costo de envío",
+    "type": "text",
+    "values": [{
+      "id": "free",
+      "name": "Gratis",
+      "results": 887
+    }]
+  }, {
+    "id": "CARRIER",
+    "name": "Compañía telefónica",
+    "type": "STRING",
+    "values": [{
+      "id": "298335",
+      "name": "Liberado",
+      "results": 980
+    }, {
+      "id": "303171",
+      "name": "Personal",
+      "results": 1
+    }]
+  }, {
+    "id": "INTERNAL_MEMORY",
+    "name": "Memoria interna",
+    "type": "range",
+    "values": [{
+      "id": "(*-128GB)",
+      "name": "Menos de 128 GB",
+      "results": 737
+    }, {
+      "id": "[128GB-*)",
+      "name": "128 GB o más",
+      "results": 230
+    }]
+  }, {
+    "id": "IS_DUAL_SIM",
+    "name": "Otras características",
+    "type": "boolean",
+    "values": [{
+      "id": "242085",
+      "name": "Es Dual SIM",
+      "results": 965
+    }]
+  }, {
+    "id": "ITEM_CONDITION",
+    "name": "Condición",
+    "type": "STRING",
+    "values": [{
+      "id": "2230284",
+      "name": "Nuevo",
+      "results": 898
+    }, {
+      "id": "2230581",
+      "name": "Usado",
+      "results": 86
+    }]
+  }]
+}
