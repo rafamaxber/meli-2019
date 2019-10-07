@@ -4,30 +4,43 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "NODE_ENV=production next",
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.1.0",
     "next": "^9.0.6",
+    "path-match": "^1.2.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "styled-components": "^4.4.0"
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^4.1.0",
+    "@testing-library/react": "^9.3.0",
+    "@testing-library/react-hooks": "^2.0.3",
+    "@types/axios": "^0.14.0",
+    "@types/jest": "^24.0.18",
     "@types/node": "^12.7.8",
     "@types/react": "^16.9.3",
-    "babel-plugin-styled-components": "^1.10.6",
-    "typescript": "^3.6.3",
+    "@types/styled-components": "^4.1.19",
     "@typescript-eslint/eslint-plugin": "^2.3.1",
     "@typescript-eslint/parser": "^2.3.1",
+    "babel-plugin-styled-components": "^1.10.6",
     "eslint": "^6.5.0",
-    "eslint-plugin-react": "^7.14.3",
     "eslint-config-prettier": "^6.3.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "prettier": "^1.18.2"
+    "eslint-plugin-react": "^7.14.3",
+    "jest": "^24.9.0",
+    "jest-cli": "^24.9.0",
+    "jest-styled-components": "^6.3.3",
+    "prettier": "^1.18.2",
+    "typescript": "^3.6.3"
   }
 }

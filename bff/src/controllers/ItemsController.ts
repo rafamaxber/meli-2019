@@ -22,8 +22,10 @@ class ItemsController {
       const result = await this.mercadoLibreApi.search(query)
       return res.json(result);
     } catch (error) {
-      console.log(error);
-      return res.json({ opa: 'ruim' });
+      return res.status(400)
+        .json({
+          message: 'item not found'
+        })
     }
   }
 

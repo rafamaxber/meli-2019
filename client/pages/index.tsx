@@ -1,11 +1,5 @@
-import styled from 'styled-components';
+import MainLayout from '../components/Layouts/MainLayout'
 
-export default () => (
-  <div>
-    <Title>My First Next.js Page</Title>
-  </div>
-);
+const IndexPage = () => <MainLayout />
 
-const Title = styled.h1`
-  color: red;
-`;
+export default IndexPage

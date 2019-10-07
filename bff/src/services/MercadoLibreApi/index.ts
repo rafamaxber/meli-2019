@@ -1,5 +1,14 @@
 import { AxiosInstance } from 'axios'
-import { IItem, IAuthor, IAuthorConfig, IMercadoLibreSearch, IMercadoLibreItems, IDescription, ISearchResult, IFindByIdResponse } from '../../types/mercadoLibreApi'
+import {
+  IItem,
+  IAuthor,
+  IAuthorConfig,
+  IMercadoLibreSearch,
+  IMercadoLibreItems,
+  IDescription,
+  ISearchResult,
+  IFindByIdResponse
+} from '../../types/mercadoLibreApi'
 
 class MercadoLibreApi {
   protected clientHttp: AxiosInstance;
