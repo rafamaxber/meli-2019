@@ -57,7 +57,7 @@ function Items({ searchText }) {
   if (items.length === 0) return <NotFound />
 
   const cardList = items.map(( item ) => (
-    <Styled.CardItem key={item.id}>
+    <Styled.CardItem key={item.id} data-card={item.id}>
       <Styled.CardItemImage>
         <Link href="/items/[id]" as={`/items/${item.id}`}>
           <img src={item.picture} alt={item.title} title={item.title} />

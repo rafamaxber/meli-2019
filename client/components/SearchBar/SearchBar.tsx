@@ -1,14 +1,14 @@
 import * as Styled from './style'
 
 const SearchIcon = () => (
-  <img src="/static/img/ic_Search.png" />
+  <img src="/static/img/ic_Search.png" alt="search icon" />
 )
 
 const SearchBar = () => (
   <Styled.SearchBar>
     <Styled.Form action="/items" method="GET" role="search">
       <Styled.Input
-        data-testid="search"
+        data-search
         maxLength="120"
         name="search"
         aria-required="true"

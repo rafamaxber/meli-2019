@@ -18,10 +18,12 @@
     "next": "^9.0.6",
     "path-match": "^1.2.4",
     "react": "^16.9.0",
+    "react-currency-format": "^1.0.0",
     "react-dom": "^16.9.0",
     "styled-components": "^4.4.0"
   },
   "devDependencies": {
+    "@testing-library/cypress": "^5.0.1",
     "@testing-library/jest-dom": "^4.1.0",
     "@testing-library/react": "^9.3.0",
     "@testing-library/react-hooks": "^2.0.3",

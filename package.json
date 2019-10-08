@@ -8,14 +8,21 @@
     "*"
   ],
   "scripts": {
+    "gui": "npx npm-gui",
+    "client:test:gui": "cd client && npx majestic",
+    "client:dev": "cd client && yarn dev",
+    "client:test": "cd client && yarn test",
+    "client:test:env": "NODE_ENV=test cd client && yarn dev",
+    "client:test:cy": "cd client && cypress open",
+    "client:cy": "run-p --race fakebackend:start bff:dev:test client:test:env client:test:cy",
     "bff:dev": "cd bff && yarn dev",
     "bff:dev:test": "cd bff && yarn dev:test",
     "bff:cy:open": "cd bff && cypress open",
     "bff:cy:run": "cd bff && cypress run",
     "bff:cy:run:record": "cd bff && cypress run --record",
     "fakebackend:start": "cd fakebackend && yarn start",
-    "test": "run-p --race fakebackend:start bff:dev:test bff:cy:open",
-    "test:ci": "run-p --race bff:cy:start bff:cy:run:record"
+    "bff:test": "run-p fakebackend:start bff:dev:test bff:cy:open",
+    "bff:test:ci": "run-p --race bff:cy:start bff:cy:run:record"
   },
   "keywords": [],
   "author": "",

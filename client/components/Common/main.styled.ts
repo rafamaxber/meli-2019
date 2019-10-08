@@ -1,8 +1,10 @@
 import styled, { createGlobalStyle } from 'styled-components';
 
 export const MainLayout = createGlobalStyle`
+  @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
   body {
-    font-family: "Proxima Nova,-apple-system,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif";
+    font-family: 'Roboto', sans-serif;
     background-color: ${({ theme }) => theme.bgColor};
     margin: 0;
     color: ${({ theme }) => theme.lv1Color};

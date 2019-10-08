@@ -1,4 +1,6 @@
 import { useState, useEffect, useContext } from 'react'
+import CurrencyFormat from 'react-currency-format';
+
 import { fetchItemById } from '../../Resources/Resources'
 import * as Styled from './style'
 import NotFound from './NotFound'
@@ -61,6 +63,7 @@ function Item({ itemId = '' }) {
     <Styled.CardHeroContainer>
       <Styled.CardHeroImageContainer>
         <Styled.CardHeroImage
+          data-img={item.picture}
           src={item.picture}
           alt={item.title}
           title={item.title}
@@ -69,23 +72,30 @@ function Item({ itemId = '' }) {
 
       <Styled.CardHeroImageInfo>
         <Styled.CardHeroImageSoldInfo>
-          <Styled.CardHeroCondition>{item.condition}</Styled.CardHeroCondition>
-          <Styled.CardHeroSoldQuantity> - {item.sold_quantity}</Styled.CardHeroSoldQuantity>
-          <Styled.CardHeroSoldText> vendidos</Styled.CardHeroSoldText>
+          <Styled.CardHeroCondition data-condition>{item.condition}</Styled.CardHeroCondition>
+          <Styled.CardHeroSoldQuantity data-quantity> - {item.sold_quantity}</Styled.CardHeroSoldQuantity>
+          <Styled.CardHeroSoldText data-sold> vendidos</Styled.CardHeroSoldText>
         </Styled.CardHeroImageSoldInfo>
-        <Styled.CardHeroTitle>
+        <Styled.CardHeroTitle data-title>
           {item.title}
         </Styled.CardHeroTitle>
-        <Styled.CardHeroPrice>
-          $ {item.price && item.price.decimals}
+        <Styled.CardHeroPrice data-price>
+          {item.price && (
+            <CurrencyFormat
+              value={item.price.decimals}
+              displayType='text'
+              thousandSeparator
+              prefix={'$'}
+            />
+          )}
         </Styled.CardHeroPrice>
         <Styled.ShopButtonContainer>
-          <Styled.ShopButton role="link" aria-label="Comprar">Comprar</Styled.ShopButton>
+          <Styled.ShopButton data-btn role="link" aria-label="Comprar">Comprar</Styled.ShopButton>
         </Styled.ShopButtonContainer>
       </Styled.CardHeroImageInfo>
 
       <Styled.CardHeroDescription>
-        <Styled.CardHeroDescriptionTitle>
+        <Styled.CardHeroDescriptionTitle data-description>
           Description del producto
         </Styled.CardHeroDescriptionTitle>
         <Styled.CardHeroDescriptionText dangerouslySetInnerHTML={{ __html: item.description }} />

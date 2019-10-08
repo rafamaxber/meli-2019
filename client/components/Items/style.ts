@@ -119,6 +119,10 @@ export const ShopButton = styled.a`
   display: block;
   text-align: center;
   color: #fff;
-  font-size: 14px;
+  font-size: 18px;
   cursor: pointer;
+  padding: 13px;
+  max-width: 210px;
+  background-color: ${({ theme }) => theme.shopColor};
+  border-radius: ${({ theme }) => theme.borderRadius};
 `;

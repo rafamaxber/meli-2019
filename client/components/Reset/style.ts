@@ -1,6 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyle = createGlobalStyle`
+
   html {
     line-height: 1.15;
     -ms-text-size-adjust: 100%;
@@ -8,7 +9,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    margin: 0
+    margin: 0;
   }
 
   article,
