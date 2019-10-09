@@ -26,7 +26,8 @@ export interface IItemList {
 }
 
 export interface IDescription {
-  text: string
+  text?: string,
+  plain_text?: string,
 }
 
 export interface IAuthorConfig {

@@ -3,11 +3,11 @@
 describe('BFF', () => {
     context('/search', () => {
         const getItems = () =>
-            cy.request('/api/items?q=product-name')
+            cy.request('/api/items?q=product')
                 .its('body')
 
         it('returns JSON', () => {
-            cy.request('/api/items?q=product-name')
+            cy.request('/api/items?q=product')
                 .its('headers')
                 .its('content-type')
                 .should('include', 'application/json')

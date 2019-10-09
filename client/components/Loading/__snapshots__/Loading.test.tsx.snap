@@ -24,7 +24,7 @@ Object {
           <img
             alt="Carregando..."
             class="c1"
-            src="/static/img/spinner.gif"
+            src="test-file-stub"
             title="Carregando..."
           />
         </div>
@@ -41,7 +41,7 @@ Object {
         <img
           alt="Carregando..."
           class="style__LoadingIcon-sc-1sdhoa5-1 hzkFxQ"
-          src="/static/img/spinner.gif"
+          src="test-file-stub"
           title="Carregando..."
         />
       </div>

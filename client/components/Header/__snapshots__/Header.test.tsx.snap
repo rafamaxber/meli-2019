@@ -68,6 +68,7 @@ Object {
 .c1 {
   display: inline-block;
   font-size: 0;
+  cursor: pointer;
   vertical-align: middle;
 }
 
@@ -100,7 +101,7 @@ Object {
             <img
               alt="Mercado Libre"
               class=""
-              src="/static/img/Logo_ML.png"
+              src="test-file-stub"
               title="Mercado Libre"
             />
           </a>
@@ -119,7 +120,7 @@ Object {
                 autocapitalize="off"
                 autocorrect="off"
                 class="c3"
-                data-testid="search"
+                data-search="true"
                 maxlength="120"
                 name="search"
                 placeholder="Buscar Producto"
@@ -132,7 +133,8 @@ Object {
                 type="submit"
               >
                 <img
-                  src="/static/img/ic_Search.png"
+                  alt="search icon"
+                  src="test-file-stub"
                 />
                 <span
                   class=""
@@ -155,13 +157,13 @@ Object {
         class="mainstyled__Limit-kgem6r-2 poVdl"
       >
         <a
-          class="style__Logo-sc-1dia5j1-1 exRDuv"
+          class="style__Logo-sc-1dia5j1-1 cUpbqO"
           role="link"
         >
           <img
             alt="Mercado Libre"
             class="style__Img-sc-1dia5j1-2 eirKPw"
-            src="/static/img/Logo_ML.png"
+            src="test-file-stub"
             title="Mercado Libre"
           />
         </a>
@@ -180,7 +182,7 @@ Object {
               autocapitalize="off"
               autocorrect="off"
               class="style__Input-sc-286i50-2 fogGJj"
-              data-testid="search"
+              data-search="true"
               maxlength="120"
               name="search"
               placeholder="Buscar Producto"
@@ -193,7 +195,8 @@ Object {
               type="submit"
             >
               <img
-                src="/static/img/ic_Search.png"
+                alt="search icon"
+                src="test-file-stub"
               />
               <span
                 class="style__Typography-sc-286i50-4 daqenF"

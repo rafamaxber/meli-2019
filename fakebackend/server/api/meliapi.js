@@ -8,21 +8,21 @@ module.exports = SetupEndpoint({
         params: '/items/{id}',
         requests: [{
             method: 'GET',
-            response: '/response-files/item.json',
-        }, ],
-      },
-      {
+            response: '/response-files/item.json'
+        }]
+    },
+    {
         params: '/items/{id}/description',
         requests: [{
             method: 'GET',
-            response: '/response-files/itemDescription.json',
-        }, ],
-      },
-      {
+            response: '/response-files/itemDescription.json'
+        }]
+    },
+    {
         params: '/sites/{siteId}/search',
         requests: [{
             method: 'GET',
-            response: '/response-files/search.json',
-        }, ],
-      }]
+            response: '/response-files/search.json'
+        }]
+    }]
 });

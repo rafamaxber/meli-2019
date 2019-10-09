@@ -5,12 +5,10 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/server.ts",
-    "dev:test": "NODE_ENV=test nodemon src/server.ts",
+    "cy:test": "ENV=test nodemon src/server.ts",
     "prebuild": "rimraf dist",
     "build": "tsc",
-    "prod": "npm run build && node app/index.js",
-    "test": "jest",
-    "test:watch": "jest --watch"
+    "prod": "npm run build && node app/server.js"
   },
   "dependencies": {
     "axios": "^0.19.0",

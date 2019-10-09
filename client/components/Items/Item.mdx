@@ -1,0 +1,23 @@
+---
+name: Cards
+menu: Components
+---
+
+import { Playground, Props } from 'docz'
+import { MainThemeProvider } from '../Layouts/ThemeProvider.tsx'
+import cardItemMock from './__mocks__/CardItem.ts'
+import { CardItem } from './Items.tsx'
+
+# CardItem
+
+## Properties
+
+<Props of={CardItem} />
+
+## Basic usage
+
+<Playground>
+  <MainThemeProvider>
+    <CardItem item={cardItemMock} />
+  </MainThemeProvider>
+</Playground>

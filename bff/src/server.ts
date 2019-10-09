@@ -2,12 +2,8 @@ import config from './config'
 
 import app from './app'
 
-export async function startServer(): Promise<void> {
-  app.listen(config.port, (err: any): void => {
-    if (err) {
-      process.exit(1);
-      return;
-    }
+export async function startServer() {
+  app.listen(config.port, () => {
     console.log('PORT: ', config.port)
   });
 }

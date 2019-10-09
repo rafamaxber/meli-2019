@@ -1,0 +1,24 @@
+---
+name: Card Hero
+menu: Components
+---
+
+import { Playground, Props } from 'docz'
+import { MainThemeProvider } from '../Layouts/ThemeProvider.tsx'
+import cardHeroMock from './__mocks__/CardHero.ts'
+import { CardHero } from './Item.tsx'
+
+# CardHero
+
+## Properties
+
+<Props of={CardHero} />
+
+## Basic usage
+
+<Playground>
+  <MainThemeProvider>
+    <CardHero item={cardHeroMock} />
+  </MainThemeProvider>
+</Playground>
+

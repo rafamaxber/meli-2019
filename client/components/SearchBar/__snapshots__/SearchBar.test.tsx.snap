@@ -84,7 +84,7 @@ Object {
             autocapitalize="off"
             autocorrect="off"
             class="c1"
-            data-testid="search"
+            data-search="true"
             maxlength="120"
             name="search"
             placeholder="Buscar Producto"
@@ -97,7 +97,8 @@ Object {
             type="submit"
           >
             <img
-              src="/static/img/ic_Search.png"
+              alt="search icon"
+              src="test-file-stub"
             />
             <span
               class=""
@@ -126,7 +127,7 @@ Object {
           autocapitalize="off"
           autocorrect="off"
           class="style__Input-sc-286i50-2 fogGJj"
-          data-testid="search"
+          data-search="true"
           maxlength="120"
           name="search"
           placeholder="Buscar Producto"
@@ -139,7 +140,8 @@ Object {
           type="submit"
         >
           <img
-            src="/static/img/ic_Search.png"
+            alt="search icon"
+            src="test-file-stub"
           />
           <span
             class="style__Typography-sc-286i50-4 daqenF"

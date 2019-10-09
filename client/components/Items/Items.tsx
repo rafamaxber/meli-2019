@@ -1,11 +1,13 @@
 import { useEffect, useState, useContext } from 'react'
 import Link from 'next/link'
+import CurrencyFormat from 'react-currency-format';
 import * as Styled from './style'
 import NotFound from './NotFound'
 import Loading from '../Loading/Loading'
 import { searchItems } from '../../Resources/Resources'
 import { LayoutContext } from '../Layouts/LayoutContext';
 import ShippingIcon from '../../public/img/ic_shipping.png';
+import { IItem } from './types';
 
 const IconFreeShipping = ({ free_shipping }) => {
   if (free_shipping) {
@@ -58,7 +60,7 @@ function Items({ searchText }) {
   return items.map(( item ) => <CardItem item={item} />);
 }
 
-export function CardItem({ item }) {
+export function CardItem({ item }:IItem) {
   return (
     <Styled.CardItem key={item.id} data-card={item.id}>
       <Styled.CardItemImage>
@@ -68,7 +70,13 @@ export function CardItem({ item }) {
       </Styled.CardItemImage>
       <Styled.CardItemDescription>
         <Styled.CardItemPrice>
-          $ {item.price.decimals} <IconFreeShipping free_shipping={item.free_shipping}/>
+        <CurrencyFormat
+          value={item.price.decimals}
+          displayType='text'
+          thousandSeparator
+          prefix={'$'}
+        />
+        <IconFreeShipping free_shipping={item.free_shipping}/>
         </Styled.CardItemPrice>
         <Styled.CardItemTitle aria-label={item.title}>
           <Link href="/items/[id]" as={`/items/${item.id}`}>

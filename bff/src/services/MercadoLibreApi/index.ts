@@ -39,7 +39,7 @@ class MercadoLibreApi {
   }
 
   public async search(query: string): Promise<ISearchResult> {
-    const { data, headers, config, request } = await this
+    const { data } = await this
       .clientHttp
       .get<IMercadoLibreSearch>(`/sites/${this.siteId}/search?q=${encodeURIComponent(query)}`)
 

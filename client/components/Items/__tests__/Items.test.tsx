@@ -77,7 +77,7 @@ const mockFetchItem = {
       },
       "picture": "http://mla-s1-p.mlstatic.com/693053-MLA31238988778_062019-I.jpg",
       "condition": "new",
-      "free_shipping": true
+      "free_shipping": false
     }]
   }
 }
@@ -103,7 +103,7 @@ describe('Items', () => {
       } = render( <Items searchText="redmi note 7" /> );
 
       await waitForElement(() => getAllByText(/Xiaomi Redmi Note 7/i));
-      await waitForElement(() => getAllByText(/25699/i));
+      await waitForElement(() => getAllByText(/\$16,599/i));
     })
   });
 

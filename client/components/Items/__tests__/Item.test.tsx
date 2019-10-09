@@ -59,7 +59,7 @@ describe('Item', () => {
       } = render( <Item itemId = "XXX123" /> );
 
       await waitForElement(() => getByText(/Xiaomi Redmi Note 7/i));
-      await waitForElement(() => getByText(/25699/i));
+      await waitForElement(() => getByText(/\$25,699/i));
       await waitForElement(() => getByText(/Procesador: El uso de Snapdragon/i));
     })
   });

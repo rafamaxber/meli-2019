@@ -11,6 +11,7 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "baseUrl": ".",
+    "skipLibCheck": true,
     "paths": {
       "*": ["node_modules/", "src/types/*"]
     }
@@ -20,8 +21,8 @@
   ],
   "exclude": [
       "node_modules",
+      "src/__tests__",
       "**/*.spec.ts",
-      "**/*.test.ts",
-  ],
-
+      "**/*.test.ts"
+  ]
 }

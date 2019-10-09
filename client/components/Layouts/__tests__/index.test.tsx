@@ -16,7 +16,6 @@ describe('MainThemeProvider', () => {
         <LayoutManager>
           <LayoutContext.Consumer>
             {(props) => {
-              console.log(props)
               return 'teste'
             }}
           </LayoutContext.Consumer>

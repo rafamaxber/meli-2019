@@ -6,10 +6,10 @@ import * as Styled from './style'
 import NotFound from './NotFound'
 import Loading from '../Loading/Loading'
 import { LayoutContext } from '../Layouts/LayoutContext';
-import { ISearchResult } from './types';
+import { IItem } from './types';
 
 interface FetchItem {
-  item: ISearchResult,
+  item: IItem,
   errors: boolean | null,
   loading: boolean
 }
@@ -61,7 +61,7 @@ function Item({ itemId = '' }) {
   return <CardHero item={item} />
 }
 
-export function CardHero({ item }) {
+export function CardHero({ item }: IItem) {
   return (
     <Styled.CardHeroContainer>
       <Styled.CardHeroImageContainer>
