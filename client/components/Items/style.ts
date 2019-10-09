@@ -55,6 +55,7 @@ export const CardItemTitle = styled.div`
 `;
 export const CardItemTitleLink = styled.div`
   color: inherit;
+  cursor: pointer;
   text-decoration: none;
 `;
 

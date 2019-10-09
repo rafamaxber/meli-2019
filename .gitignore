@@ -65,3 +65,5 @@ app/
 # End of https://www.gitignore.io/api/node
 
 .next
+
+.docz

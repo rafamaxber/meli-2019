@@ -13,7 +13,7 @@ function SelectComponent() {
     return <Items searchText={search} />
   }
 
-  return <NotFound />
+  return null
 }
 
 function ItemsPage() {

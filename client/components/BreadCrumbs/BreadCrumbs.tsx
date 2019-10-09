@@ -2,6 +2,9 @@ import * as Styled from './style'
 import * as Common from '../Common/main.styled'
 
 interface BreadCrumbs {
+  /**
+   * Set this to show breadcrumb items
+   */
   steps: string[]
 }
 
@@ -14,7 +17,7 @@ const Arrow = ({ show }) => show ? (
   </svg>
 ) : null;
 
-function BreadCrumbs ({ steps }: BreadCrumbs): JSX.Element {
+function BreadCrumbs({ steps }: BreadCrumbs): JSX.Element {
   if (!steps || !steps.length) return null
   const stepsList = steps.map((item, index, array) => {
     return (

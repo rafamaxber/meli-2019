@@ -5,11 +5,12 @@ import NotFound from './NotFound'
 import Loading from '../Loading/Loading'
 import { searchItems } from '../../Resources/Resources'
 import { LayoutContext } from '../Layouts/LayoutContext';
+import ShippingIcon from '../../public/img/ic_shipping.png';
 
 const IconFreeShipping = ({ free_shipping }) => {
   if (free_shipping) {
     return (
-      <img src="/static/img/ic_shipping.png" alt="Free Shipping" title="Free Shipping"/>
+      <img src={ShippingIcon} alt="Free Shipping" title="Free Shipping"/>
     )
   }
   return null;
@@ -54,9 +55,11 @@ function Items({ searchText }) {
 
   if (loading) return <Loading />
 
-  if (items.length === 0) return <NotFound />
+  return items.map(( item ) => <CardItem item={item} />);
+}
 
-  const cardList = items.map(( item ) => (
+export function CardItem({ item }) {
+  return (
     <Styled.CardItem key={item.id} data-card={item.id}>
       <Styled.CardItemImage>
         <Link href="/items/[id]" as={`/items/${item.id}`}>
@@ -79,9 +82,7 @@ function Items({ searchText }) {
         <Styled.CardItemLocationName>{item.address.state_name}</Styled.CardItemLocationName>
       </Styled.CardItemLocation>
     </Styled.CardItem>
-  ));
-
-  return cardList
+  )
 }
 
 export default Items

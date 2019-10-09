@@ -16,7 +16,7 @@ interface FetchItem {
 
 export function useFetchItem(sku: string): FetchItem {
   const [item, setItem] = useState({})
-  const [loading, setLoading] = useState(null)
+  const [loading, setLoading] = useState(true)
   const [errors, setErrors] = useState(null)
   const { setBreadCrumb, setTitle } = useContext(LayoutContext);
 
@@ -30,6 +30,7 @@ export function useFetchItem(sku: string): FetchItem {
     fetchItemById(sku)
       .then(res => {
         setItem(res.data.item)
+        setTitle(`Mercado Libre: ${res.data.item.title}`)
         setErrors(null)
       })
       .catch(err => {
@@ -57,8 +58,10 @@ function Item({ itemId = '' }) {
 
   if (loading) return <Loading />
 
-  if (!Object.keys(item).length) return <NotFound />
+  return <CardHero item={item} />
+}
 
+export function CardHero({ item }) {
   return (
     <Styled.CardHeroContainer>
       <Styled.CardHeroImageContainer>

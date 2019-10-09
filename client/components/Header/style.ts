@@ -10,6 +10,7 @@ export const MainHeader = styled.div`
 export const Logo = styled.a`
   display: inline-block;
   font-size: 0;
+  cursor: pointer;
   vertical-align: middle;
 
   @media (max-width: 530px) {

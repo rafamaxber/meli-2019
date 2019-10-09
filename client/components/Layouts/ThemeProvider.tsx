@@ -1,6 +1,6 @@
 import { DefaultTheme, ThemeProvider, css } from 'styled-components';
 
-const theme: DefaultTheme = {
+export const theme: DefaultTheme = {
   meliColor: '#ffe600',
   bgColor: '#eeeeee',
   lv1Color: '#333333',
@@ -17,4 +17,6 @@ const theme: DefaultTheme = {
   `
 };
 
-export const MainThemeProvider = ({ children }) => <ThemeProvider theme={theme}>{children}</ThemeProvider>
+export const MainThemeProvider = ({ children }) => (
+  <ThemeProvider theme={theme}>{children}</ThemeProvider>
+)
