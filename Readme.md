@@ -6,7 +6,7 @@ This project uses the free market API by performing an abstraction of product se
 
 Must use package manager `yarn` because the project is a monorepo that uses the `yarn workspaces`.
 
-Aiming to meet the functional requirements was chosen as frontend framework the [NextJs](https://nextjs.org) which provides a structure of server side rendering(SSR) and component development using `React` is `Custom hooks do React`.
+Aiming to meet the functional requirements was chosen as frontend framework the [NextJs](https://nextjs.org) which provides a structure of server side rendering(SSR) and component development using `React` and `Custom hooks do React`.
 
 ## Get started
 
