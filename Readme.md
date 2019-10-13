@@ -6,7 +6,7 @@ This project uses the free market API by performing an abstraction of product se
 
 Must use package manager `yarn` because the project is a monorepo that uses the `yarn workspaces`.
 
-Aiming to meet the functional requirements was chosen as frontend framework the [NextJs](https://nextjs.org) which provides a structure of server side rendering(SSR) and component development using `React` and `Custom hooks do React`.
+Aiming to meet the functional requirements was chosen as frontend framework the [NextJs](https://nextjs.org) which provides a structure of server side rendering(SSR) and component development using `React` and `React Custom hooks`.
 
 ## Get started
 
@@ -46,7 +46,7 @@ yarn bff:dev
 
 ### Test Client
 
-Testar client utilizando Majestic gui
+Client test using Majestic gui
 
 ```
 yarn client:test:gui
@@ -56,7 +56,7 @@ yarn client:test:gui
 yarn client:test
 ```
 
-Testar client E2E
+Test client E2E
 
 ```
 yarn client:cy
@@ -64,10 +64,10 @@ yarn client:cy
 
 ### Test Bff
 
-Testar client E2E
+Test Bff E2E
 
 ```
-yarn client:cy
+yarn bff:test
 ```
 
 [*Bff = Backend for frontend](https://samnewman.io/patterns/architectural/bff/)
