@@ -59,7 +59,8 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# FIXME: To facilitate application testing
+# .env
 
 app/
 # End of https://www.gitignore.io/api/node
