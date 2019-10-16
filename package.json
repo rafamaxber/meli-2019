@@ -15,7 +15,7 @@
     "client:test": "cd client && yarn test",
     "client:test:env": "NODE_ENV=test cd client && yarn dev",
     "client:test:cy": "cd client && cypress open",
-    "client:cy": "run-p --race fakebackend:start client:test:env client:test:cy",
+    "client:cy": "run-p --race fakebackend:start bff:cy:test client:test:env client:test:cy",
     "bff:dev": "cd bff && yarn dev",
     "bff:cy:test": "cd bff && yarn cy:test",
     "bff:cy:open": "cd bff && cypress open",
